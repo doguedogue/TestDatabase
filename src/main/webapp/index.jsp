@@ -12,6 +12,7 @@
 	<ul>
 		<li><a href="mysql.jsp">Conexión MySQL</a></li>
 		<li><a href="oracle.jsp">Conexión Oracle</a></li>
+		<li><a href="sqlserver.jsp">Conexión SQL Server</a></li>
 	</ul>
 </body>
 </html>
