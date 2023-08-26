@@ -9,9 +9,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Conexión Oracle</title>
+<title>ConexiÃ³n Oracle</title>
 </head>
 <body>
+	<b><label>ConexiÃ³n Oracle</label></b><br><br>		
 	<b><label>Variables Weblogic</label></b><br>
 	<% String prefix = "";%>
 	<% String prop = prefix+"PROPERTIES"; %>
@@ -49,7 +50,7 @@
 	    }		
 		%>
 		
-	<b><label>Conexión de base de datos</label></b><br>
+	<b><label>ConexiÃ³n de base de datos</label></b><br>
 	<%	
 		try {
 			Class.forName(driver);
